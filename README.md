@@ -14,8 +14,8 @@ MOXSSG public web site.
 
 ##  Structure of This site (Last update 2016-08-20)
 ### Redirect
-`moxssg.com -> moxssg.github.io -> https://www.facebook.com/groups/moxssg/
-moxssg.org -> moxssg.github.io -> https://www.facebook.com/groups/moxssg/
+- moxssg.com -> moxssg.github.io -> https://www.facebook.com/groups/moxssg/
+- moxssg.org -> moxssg.github.io -> https://www.facebook.com/groups/moxssg/
 
 ###
 
