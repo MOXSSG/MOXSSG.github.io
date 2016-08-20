@@ -17,13 +17,13 @@ MOXSSG public web site.
 
 ### Directory
 ~~~
-/index.html
+/index.html /* Redirect to facebook */
 /README.md
 |- /en/
-|   |- index.html
+|   |- index.html /* Not started yet */
 |
 |- /ja/
-|   |- index.html
+|   |- index.html /* Not started yet */
 
 ~~~
 
